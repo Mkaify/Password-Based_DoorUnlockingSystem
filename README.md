@@ -2,6 +2,14 @@
 
 This project is an embedded system titled **"Password-Based Door Unlocking System"**. It is designed to enhance security by allowing access only when the correct password is entered. The system is implemented in C++ and is ideal for educational purposes, home automation, and embedded system enthusiasts.
 
+## Demo Video
+
+You can watch a demonstration of the system here:
+
+<video src="https://github.com/Mkaify/Password-Based_DoorUnlockingSystem/raw/main/ESPVideo.mp4" controls width="480"></video>
+
+Alternatively, [download or view the video directly](https://github.com/Mkaify/Password-Based_DoorUnlockingSystem/raw/main/ESPVideo.mp4).
+
 ## Features
 
 - Password-based authentication for door unlocking
